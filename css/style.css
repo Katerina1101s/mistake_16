@@ -1,0 +1,13 @@
+.wrapper{
+   display: hidden;
+   width: 300px;
+}
+
+body{
+   color: green;
+   margin: 0px auto;
+}
+
+p{
+   background-color: hotpink;
+}
